@@ -1,16 +1,16 @@
 @font-face {
     src: url("./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.woff2") format("woff2"),
-         url('./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.woff') format("woff"),
-        url('./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.ttf') format('truetype');
+         
+        url("fonts/Honk-Regular-VariableFont_MORF\,SHLN.ttf") format('truetype');
 
-    font-family: 'Forma';
+    font-family: 'Honk';
     font-style: normal;
     font-weight: normal;
     }
     
     body{
     background-color: lightsteelblue;
-    font-family: 'Forma';
+    font-family: 'Honk';
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -57,9 +57,10 @@ h3{
 
 @keyframes weightChange {
     0%, 100%{
-        font-variation-settings: "opsz" 16, "wght" 200, "slnt" 0;
+        font-variation-settings: "MORF" 0, "SHLN" 0;
     }
-    50%{font-variation-settings: "opsz" 16, "wght" 900, "slnt" -13;
+    50%{
+        font-variation-settings: "MORF" 40, "SHLN" 0;
     }
     
 }
