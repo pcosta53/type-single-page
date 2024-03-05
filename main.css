@@ -9,7 +9,7 @@
     }
     
     body{
-    background-color: lightsteelblue;
+    background-color: rgb(242, 172, 231);
     font-family: 'Honk';
 }
 /* how the page wrapper will appear on mobile */
@@ -44,7 +44,7 @@ grid-area: a;
 }
 /* CSS for the footer */
 footer{
-    background-color: gray;
+    background-color: rgb(159, 149, 208);
 }
 
 /* variable font animation */
