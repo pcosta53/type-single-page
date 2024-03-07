@@ -1,3 +1,8 @@
+/* *{
+    border: 3px blue dashed;
+} */
+
+
 @font-face {
     src: url("./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.woff2") format("woff2"),
          
@@ -30,6 +35,14 @@ grid-template-areas:
     "a a";
 }
 
+.history-paragraph{
+    font-family: "Encode Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
 .history {
 grid-area: h;
 }
@@ -44,7 +57,7 @@ grid-area: a;
 }
 /* CSS for the footer */
 footer{
-    background-color: rgb(159, 149, 208);
+    background-color: rgb(168, 167, 173);
 }
 
 /* variable font animation */
