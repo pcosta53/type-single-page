@@ -50,7 +50,24 @@ grid-area: h;
 .variations{
 grid-area: v;
 }
+.second {
+    background-color: #f8f9fa;
+    color: #333;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 16px;
+}
 
+.second:hover {
+    background-color: #e2e6ea;
+}
+a {
+  
+}
 .alphabet {
 grid-area: a;
 }
@@ -58,6 +75,7 @@ grid-area: a;
 /* CSS for the footer */
 footer{
     background-color: rgb(168, 167, 173);
+    padding:80px;
 }
 
 /* variable font animation */
