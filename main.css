@@ -68,6 +68,21 @@ grid-area: v;
 a {
   
 }
+
+ul{
+    font-size:30px
+ }
+ 
+ .size{
+     font-size:30px
+ }
+ .shadow{
+    font-variation-settings: "MORF" 0, "SHLN" 100;
+ 
+ }
+ .morph{
+    font-variation-settings: "MORF" 45, "SHLN"0;
+}
 .alphabet {
 grid-area: a;
 }
