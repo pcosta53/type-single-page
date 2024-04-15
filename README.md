@@ -1,2 +1,4 @@
 # type-single-page
  
+This is my second job working on a website with Visual Studio Code and GitHub. I am beginning to become more familiar with coding and how to edit the layout of things on the website. This website is slightly different than the first that I made because I incorporated movement with variable axis of the font Honk. The font Honk can be found on Google Fonts where you can download and use for free. 
+While making this website I started with a starter code to help guide me with the placement of things like the toolbar and footer. The color scheme was chosen to compliment the pink and yellow gradient of the font design of Honk. I also chose a complimentary font that was more legible for the history paragraph because the Honk font is very decorative and is used more for headers. 
