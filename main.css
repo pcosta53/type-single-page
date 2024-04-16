@@ -69,8 +69,8 @@ grid-area: v;
 a {
   
 }
-p{
-    font-size: 22px;
+.variable-paragraph{
+    font-size: 30px;
 }
 ul{
     font-size:30px
